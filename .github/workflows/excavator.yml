@@ -1,8 +1,8 @@
 on:
   workflow_dispatch:
   schedule:
-    # run every 4 hours
-    - cron: '20 */4 * * *'
+    # run daily
+    - cron: '20 8 * * *'
 name: Excavator
 permissions:
   contents: write
