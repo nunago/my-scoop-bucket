@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
   schedule:
     # run daily
-    - cron: '20 8 * * *'
+    - cron: '20 16 * * *'
 name: Excavator
 permissions:
   contents: write
