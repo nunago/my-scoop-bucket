@@ -7,8 +7,10 @@
     "url": "https://www.zubersoft.download/MobileSheetsCompanion.exe",
     "hash": "066adc65294b37905b6ab358cc43ef0bbee06a5bfb916554f7dca9ece88372b9",
     "shortcuts": [
-        "MobileSheetsCompanion.exe",
-        "MobileSheets Companion"
+        [
+            "MobileSheetsCompanion.exe",
+            "MobileSheets Companion"
+        ]
     ],
     "installer": {
         "script": [
