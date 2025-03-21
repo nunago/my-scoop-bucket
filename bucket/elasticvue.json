@@ -1,10 +1,10 @@
 {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "description": "Free and open-source gui for elasticsearch that you can use to manage the data in your cluster.",
     "homepage": "https://github.com/cars10/elasticvue",
     "license": "MIT",
-    "url": "https://github.com/cars10/elasticvue/releases/download/v1.5.0/elasticvue.exe",
-    "hash": "7351e35ec6fe69d56e205b585a426436f89c288427785e2d5f192b445bcf4ce8",
+    "url": "https://github.com/cars10/elasticvue/releases/download/v1.6.0/elasticvue.exe",
+    "hash": "c5b59e29737d839b7aca653826da86ed85b0f460e9f3578656a6bac30ba29d21",
     "shortcuts": [
         [
             "elasticvue.exe",
